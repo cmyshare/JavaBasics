@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/chap8/task8_1/Example8_1/FileOperate.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/chap8/task8_1/Example8_2/FileInputStreamOperate.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/chap8/task8_1/Example8_3/FileInputOutputOperate.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/chap8/task8_1/Example8_3/FileOutputStreamOperate.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/chap8/task8_1/Notebook.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/chap8/task8_2/Example8_4/demo4.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/chap8/task8_2/Example8_4/democopy.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/chap8/task8_3/Example8_9/student1.dat" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
