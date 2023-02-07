@@ -1,4 +1,4 @@
-package meet2;
+package test;
 
 import java.util.HashMap;
 import java.util.Scanner;

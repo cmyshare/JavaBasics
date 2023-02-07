@@ -3,8 +3,8 @@ import java.io.*;
 
 /**
  * 使用缓冲字符输入输出流 完成文件的复制
- * BufferedInputStream 从文件字符输入流 读取文本
- * BufferedOutputStream 将文本写入 文件字符输出流
+ * BufferedReader 从文件字符输入流 读取文本
+ * BufferedWriter 将文本写入 文件字符输出流
  * 构造方法 套接在文件字符输入输出流上
  *
  * 输入输出 都新增了一个操作行的功能readline()、newline()

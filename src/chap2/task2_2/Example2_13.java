@@ -41,5 +41,27 @@ public class Example2_13 {
 				System.out.println("月份数据非法！");
 		}
 		System.out.println(year + "年" + month + "月有" + days + "天");
+
+
+		String a="0";
+		char b='b';
+		int c=1;
+		long d=2;
+		boolean e=true;
+		float f= 3.0F;
+		double g=4;
+		short h=5;
+		byte i=8;
+
+		//switch允许string类型字符串
+		switch (i){
+			case 8:
+				System.out.println(i);
+				break;
+			default:
+				System.out.println("initial");
+		}
+
+
 	}
 }

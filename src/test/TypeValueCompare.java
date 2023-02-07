@@ -1,4 +1,4 @@
-package meet2;
+package test;
 
 /**
  * @author cmy
